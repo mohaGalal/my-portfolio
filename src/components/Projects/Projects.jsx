@@ -2,12 +2,12 @@ import React from 'react'
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import quizApp from "../../Assets/Projects/quiz-app.webp";
+import quizApp from "../../assets/Projects/quiz-app.webp";
 // import emotion from "../../Assets/Projects/emotion.png";
-import hms from "../../Assets/Projects/HMS.jpg";
-import foodApp from "../../Assets/Projects/foodapp.jfif";
-import chef from "../../Assets/Projects/chef.jpg";
-import pms from "../../Assets/Projects/project_managment.jpg";
+import hms from "../../assets/Projects/HMS.jpg";
+import foodApp from "../../assets/Projects/foodapp.jfif";
+import chef from "../../assets/Projects/chef.jpg";
+import pms from "../../assets/Projects/project_managment.jpg";
 
 export default function Projects() {
   return (
